@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/NANDIMANDALAM-SUNNY/apiRatelimit/issues"
   },
-  "homepage": "https://github.com/NANDIMANDALAM-SUNNY/apiRatelimit#readme"
+  "homepage": "https://github.com/NANDIMANDALAM-SUNNY/apiRatelimit#readme",
+  "files": ["README.md"]
 }
