@@ -1,0 +1,31 @@
+{
+  "name": "api-rate-limit",
+  "version": "1.0.1",
+  "description": "A simple rate limiting package to prevent brute force attacks and abuse by limiting the number of requests from a single IP address or user within a specified time period.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NANDIMANDALAM-SUNNY/apiRatelimit.git"
+  },
+  "keywords": [
+    "brute force protection",
+    "security",
+    "request limiter",
+    "abuse prevention",
+    "IP address",
+    "user",
+    "Node.js",
+    "package",
+    "api-rate-limit",
+    "rate-limit"
+  ],
+  "author": "Nandimandalam Sunny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NANDIMANDALAM-SUNNY/apiRatelimit/issues"
+  },
+  "homepage": "https://github.com/NANDIMANDALAM-SUNNY/apiRatelimit#readme"
+}
