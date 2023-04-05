@@ -1,6 +1,6 @@
 {
   "name": "api-rate-limit",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A simple rate limiting package to prevent brute force attacks and abuse by limiting the number of requests from a single IP address or user within a specified time period.",
   "main": "index.js",
   "scripts": {
